@@ -1,4 +1,4 @@
-# 🎯 YT Focus
+# 🎯 YT Focus -
 
 > Turn YouTube Playlists into Focused Learning Journeys
 
