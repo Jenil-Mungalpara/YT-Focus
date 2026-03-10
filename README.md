@@ -18,7 +18,7 @@ YT Focus is a gamified learning platform that transforms YouTube playlists into 
 🚀 **Try YT Focus here:**  
 - https://yt-focus-psi.vercel.app/
   
-> Note: Backend is hosted separately. First load may take a few seconds.
+> Note: Backend is hosted separately. First load may take a few seconds .
 
 🎥 **Demo video:**  
 - https://drive.google.com/file/d/1hQ6rjb2eEyoZFgc43rV0EDHNKSiMymM3/view
